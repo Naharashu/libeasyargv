@@ -4,7 +4,6 @@
 #include <stdexcept>
 #include <string>
 
-std::vector<flag> essential_flags;
 
 std::vector<flag> flags;
 
