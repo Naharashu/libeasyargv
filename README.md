@@ -13,7 +13,7 @@ make && make install
 ## Testing
 
 ```
-g++ example.cpp -o test
+g++ example.cpp -o test -leasyargv
 ./test -n 2
 ./test -a -v
 ./test -v
